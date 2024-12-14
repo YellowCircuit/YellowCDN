@@ -1,5 +1,15 @@
 {
   "isD": false,
   "c": [[1, 3000, 1070], [1, 3000, 1071], [1, 3000, 1072], [1, 3000, 1073], [1, 3000, 1074]],
-  "rOld": false
+  "rOld": false,
+  "eim": {
+    "pEl": "hn0tFe",
+    "bEl": "kHe7nc",
+    "cEl": "Zv1Nfb"
+  },
+  "ecm": {
+    "rEl": "gws-csf-randomnumber__result",
+    "iEl": "gws-csf-randomnumber__minVal",
+    "aEl": "gws-csf-randomnumber__maxVal"
+  }
 }
