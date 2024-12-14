@@ -1,0 +1,3 @@
+;(() => {
+  alert("Yellow Circuit");
+})();
